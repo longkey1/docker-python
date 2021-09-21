@@ -1,6 +1,6 @@
 .DEFAULT_GOAL := help
 
-repo := php
+repo := python
 tags := latest slim
 
 define build_git_branch
