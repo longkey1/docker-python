@@ -1,4 +1,4 @@
-FROM python:latest
+FROM python:slim
 
 # Fix frontend not set error
 ARG DEBIAN_FRONTEND=noninteractive
